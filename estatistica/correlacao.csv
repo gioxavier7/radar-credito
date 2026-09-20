@@ -1,0 +1,4 @@
+,inadimplencia_pf,comprometimento_total,comprometimento_sem_imob
+inadimplencia_pf,1.0,0.15,0.26
+comprometimento_total,0.15,1.0,0.99
+comprometimento_sem_imob,0.26,0.99,1.0
